@@ -4,6 +4,9 @@ Welcome to the Pokémon Generator App! This application allows you to discover r
 
 ## 📸 Screenshots
 
+![project9](https://github.com/user-attachments/assets/abb4b361-f393-45e6-acdf-c83338d69417)
+
+
 
 ## 🌟 Features
 
